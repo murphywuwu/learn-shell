@@ -1,0 +1,8 @@
+README.md
+a.txt
+demo-args.sh
+demo-exit.sh
+func-args.sh
+myscript.sh
+output.log
+pid.sh
